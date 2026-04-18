@@ -1,0 +1,67 @@
+college,course,cutoff_rank,fees,location,placement_percent,avg_package_lpa,exam
+IIT Delhi,CSE,1000,250000,Delhi,95,20,JEE
+IIT Delhi,ECE,2000,250000,Delhi,94,18,JEE
+IIT Bombay,CSE,800,250000,Mumbai,96,22,JEE
+IIT Bombay,Electrical,1500,250000,Mumbai,95,20,JEE
+IIT Madras,CSE,1200,250000,Chennai,94,18,JEE
+IIT Kanpur,CSE,1300,250000,Kanpur,93,17,JEE
+IIT Kharagpur,CSE,1400,250000,Kharagpur,93,17,JEE
+IIT Roorkee,CSE,1800,250000,Roorkee,92,16,JEE
+
+NIT Trichy,CSE,5000,150000,Tamil Nadu,90,12,JEE
+NIT Trichy,ECE,7000,150000,Tamil Nadu,88,11,JEE
+NIT Surathkal,CSE,6000,150000,Karnataka,89,11,JEE
+NIT Warangal,CSE,5500,150000,Telangana,89,12,JEE
+NIT Calicut,CSE,8000,150000,Kerala,87,10,JEE
+NIT Rourkela,CSE,9000,150000,Odisha,86,9,JEE
+NIT Jaipur,CSE,10000,150000,Rajasthan,85,9,JEE
+
+IIIT Hyderabad,CSE,2000,300000,Hyderabad,92,16,JEE
+IIIT Hyderabad,ECE,3000,300000,Hyderabad,90,15,JEE
+IIIT Bangalore,CSE,4000,350000,Bangalore,91,15,JEE
+IIIT Delhi,CSE,7000,200000,Delhi,88,11,JEE
+IIIT Allahabad,CSE,8500,180000,Allahabad,87,10,JEE
+
+DTU,CSE,8000,180000,Delhi,88,10,JEE
+DTU,IT,9000,180000,Delhi,87,10,JEE
+NSUT,CSE,9000,180000,Delhi,87,10,JEE
+NSUT,ECE,11000,180000,Delhi,85,9,JEE
+IGDTUW,CSE,12000,160000,Delhi,86,9,JEE
+
+BITS Pilani,CSE,3000,400000,Rajasthan,91,15,BITSAT
+BITS Pilani,ECE,4000,400000,Rajasthan,90,14,BITSAT
+BITS Goa,CSE,5000,400000,Goa,89,13,BITSAT
+BITS Hyderabad,CSE,5500,400000,Hyderabad,88,13,BITSAT
+
+VIT Vellore,CSE,20000,200000,Tamil Nadu,85,8,VITEEE
+VIT Chennai,CSE,22000,200000,Chennai,83,7,VITEEE
+SRM University,CSE,30000,250000,Chennai,80,7,SRMJEEE
+SRM AP,CSE,35000,250000,Andhra Pradesh,78,6,SRMJEEE
+
+Amity University,CSE,50000,300000,Noida,75,6,Direct
+Amity University,ECE,60000,300000,Noida,73,5,Direct
+Manav Rachna,CSE,60000,200000,Faridabad,70,5,Direct
+Manav Rachna,ECE,70000,200000,Faridabad,68,4,Direct
+Shiv Nadar University,CSE,25000,350000,Noida,82,9,SNUSAT
+Ashoka University,CS,20000,450000,Sonepat,80,8,ASHOKA
+
+Jamia Millia Islamia,CSE,7000,16000,Delhi,85,9,Entrance
+Jadavpur University,CSE,6000,10000,Kolkata,90,12,WBJEE
+Anna University,CSE,9000,50000,Chennai,88,10,TNEA
+Delhi University,BSc CS,10000,20000,Delhi,78,6,CUET
+Mumbai University,CS,15000,25000,Mumbai,75,6,Entrance
+
+Chandigarh University,CSE,40000,180000,Punjab,78,6,CUCET
+Lovely Professional University,CSE,45000,200000,Punjab,76,6,LPUNEST
+UPES Dehradun,CSE,35000,300000,Dehradun,79,7,UPESAT
+KIIT University,CSE,28000,250000,Bhubaneswar,81,8,KIITEE
+MIT Manipal,CSE,12000,350000,Manipal,85,9,MET
+
+PES University,CSE,10000,400000,Bangalore,86,10,PESSAT
+RV College of Engineering,CSE,9000,200000,Bangalore,90,12,KCET
+MSRIT,CSE,11000,200000,Bangalore,88,10,KCET
+BMS College,CSE,12000,200000,Bangalore,87,10,KCET
+
+Thapar University,CSE,15000,350000,Patiala,84,9,Entrance
+NMIMS Mumbai,CSE,18000,400000,Mumbai,83,8,NMIMS
+Symbiosis Pune,CSE,20000,350000,Pune,82,8,SET
